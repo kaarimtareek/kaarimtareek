@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about .NetCore, C#, SQL
 - 📫 How to reach me:
     - Gmail : kaarimtareek@gmail.com
-    - [Facebook] (https://www.facebook.com/kaarimtareek)
-    - [Twitter] (https://twitter.com/kaarimtareek)
-    - [stackoverflow] (https://stackoverflow.com/users/8151468/kaarimtareek)
-    - [linkedin] (https://www.linkedin.com/in/kaarimtareek)
+    - [Facebook](https://www.facebook.com/kaarimtareek)
+    - [Twitter](https://twitter.com/kaarimtareek)
+    - [stackoverflow](https://stackoverflow.com/users/8151468/kaarimtareek)
+    - [linkedin](https://www.linkedin.com/in/kaarimtareek)
 
